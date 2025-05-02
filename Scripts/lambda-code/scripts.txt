@@ -1,0 +1,1 @@
+This folder contains useful lambda code for regular uses and tasks on cloud
