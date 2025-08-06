@@ -1,1 +1,1 @@
-hello CiCd with GitHub Action
+print("hello CiCd with GitHub Action")
